@@ -1,0 +1,11 @@
+url,label
+http://login-paypal.com/secure,phishing
+http://bank-verification.com/update,phishing
+http://192.168.0.1/login,phishing
+https://github.com,legitimate
+https://www.google.com,legitimate
+http://update-bank-info.com,phishing
+https://stackoverflow.com,legitimate
+http://secure-login.amazon.verify.cc,phishing
+https://openai.com,legitimate
+http://secure-facebook-login.com,phishing
